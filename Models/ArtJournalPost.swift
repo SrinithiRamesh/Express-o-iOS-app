@@ -1,10 +1,3 @@
-//
-//  ArtJournalPost.swift
-//  Express-o
-//
-//  Created by user1 on 01/01/24.
-//
-
 import Foundation
 
 struct ArtJournalPost: Identifiable {
