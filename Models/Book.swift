@@ -1,9 +1,3 @@
-//
-//  Book.swift
-//  Express-o
-//
-//  Created by ishan on 25/03/24.
-//
 
 import Foundation
 
